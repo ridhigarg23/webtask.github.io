@@ -1,0 +1,52 @@
+body{
+	padding-left:0px;
+}
+.log{
+	text-transform:capitalize;
+	font-size:10px;
+	width:410px;
+}
+
+.form_field{
+	
+	border-radius:5px;
+	width:350px;
+	height:250px;
+	margin-top:200px;
+	/* margin-left:600px; */
+	 margin-bottom: 20px;
+  /* background:gray; */
+  padding: 0px;
+  text-align: center;
+  /* font-size: 14px; */
+  transition: all 0.5s ease;
+	
+}
+.input_field{
+	padding:10px;
+	border:none;
+}
+.btn{
+	border-radius: 25px;
+	margin-top:20px;
+	background-color:#66CDAA;
+	width:200px;
+}
+img{
+	height:752px;
+	/* background-color:#66CDAA; */
+	width:800px;
+
+}
+.for{
+	color:red;
+	
+	margin-left:220px;
+}
+.sign{
+	margin-top:100px;
+	color:red;
+}
+div.one > div.row > div.wave{
+	padding-left:0px;
+}
